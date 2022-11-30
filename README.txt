@@ -2,16 +2,4 @@ Hello Git and Github
 My name is Batuhan
 This is an experiment for git branch
 experiment commit 1
-experiment commit 2
-
-
-
-
-
-
-
-
-
-
-
-Let's see if it really works
+experiment commit 10
